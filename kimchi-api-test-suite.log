@@ -1,0 +1,28 @@
+11-24-2015 02:33:25 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 04:18:07 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 04:46:27 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 04:55:13 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 04:55:28 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 05:00:35 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 05:01:39 PM DEBUG: --> TestBase.setUpClass()
+11-24-2015 05:01:39 PM DEBUG: TestBase.setUpClass(): Setting auth to session
+11-24-2015 05:01:54 PM DEBUG: TestBase.setUpClass(): Auth details set to session and base URI created as https://localhost:8001
+11-24-2015 05:01:54 PM DEBUG: <-- TestBase.setUpClass()
+11-24-2015 05:01:54 PM INFO: --> TestStorage.test_F001_activate_incorrect_storage_pool() 
+11-24-2015 05:01:54 PM INFO: <-- TestStorage.test_F001_activate_incorrect_storage_pool() 
+11-24-2015 05:13:58 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 05:18:55 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 05:20:57 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 05:21:49 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 05:22:02 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 05:24:16 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 05:24:22 PM DEBUG: --> TestBase.setUpClass()
+11-24-2015 05:24:22 PM DEBUG: TestBase.setUpClass(): Setting auth to session
+11-24-2015 05:24:22 PM DEBUG: TestBase.setUpClass(): Auth details set to session and base URI created as https://localhost:8001
+11-24-2015 05:24:22 PM DEBUG: <-- TestBase.setUpClass()
+11-24-2015 05:24:22 PM INFO: --> TestStorage.test_F001_activate_incorrect_storage_pool() 
+11-24-2015 05:24:22 PM INFO: <-- TestStorage.test_F001_activate_incorrect_storage_pool() 
+11-24-2015 05:27:29 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 05:32:26 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 05:32:35 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
+11-24-2015 07:25:57 PM ERROR: TestBase.setUpClass(): Ending session as API error happened
